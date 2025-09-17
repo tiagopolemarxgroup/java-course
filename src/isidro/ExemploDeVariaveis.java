@@ -13,8 +13,8 @@ public class ExemploDeVariaveis {
         qtdMeses = resto / 30;
         qtdDias = resto % 30;
 
-        System.out.println(qtdAnos + " anos");
-        System.out.println(qtdMeses + " meses");
+        System.out.println(qtdAnos + " +anos");
+        System.out.println(qtdMeses + qtdAnos+ " +meses");
         System.out.println(qtdDias + " dias");
 
 

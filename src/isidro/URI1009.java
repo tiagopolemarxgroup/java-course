@@ -8,7 +8,9 @@ public class URI1009 {
         
         System.out.println("Digite o nome: ");
         String nome = sc.nextLine();
+
         System.out.println("Digite o valor do seu salario: ");
+
         double salario = sc.nextDouble();
 
         System.out.println("Digite o valor das vendas: ");
@@ -16,5 +18,6 @@ public class URI1009 {
         double comissao = (vendas * 15)/100;
         double totalreceber = (salario + comissao);
         System.out.printf("salarario a receber: %.2f ", totalreceber);
+        System.out.println();
     }
 }

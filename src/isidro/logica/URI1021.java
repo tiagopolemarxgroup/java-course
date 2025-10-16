@@ -1,6 +1,5 @@
-package isidro;
+package isidro.logica;
 
-import javax.management.MBeanAttributeInfo;
 import java.util.Scanner;
 
 public class URI1021 {

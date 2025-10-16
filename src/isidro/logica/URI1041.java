@@ -1,4 +1,4 @@
-package isidro;
+package isidro.logica;
 
 import java.util.Scanner;
 

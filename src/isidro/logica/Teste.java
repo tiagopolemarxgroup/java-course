@@ -1,4 +1,4 @@
-package isidro;
+package isidro.logica;
 
 public class Teste {
     public static void main(String[] args) {
